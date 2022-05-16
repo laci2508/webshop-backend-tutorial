@@ -2,7 +2,6 @@ package de.laclare.webshop.repository;
 
 import de.laclare.webshop.model.ProductCreateRequest;
 import de.laclare.webshop.model.ProductResponse;
-import org.springframework.http.ResponseEntity;
 
 import java.util.ArrayList;
 import java.util.Arrays;
