@@ -1,8 +1,10 @@
 package de.laclare.webshop.repository
 
 import de.laclare.webshop.model.CustomerResponse
+import org.springframework.stereotype.Service
 import java.util.UUID
 
+@Service
 class CustomerRepository {
 
     val customers = listOf (
